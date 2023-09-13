@@ -14,6 +14,9 @@ ingredient(golden_carrot).
 ingredient(turtle_shell).
 ingredient(phantom_membrane).
 ingredient(fermented_spider_eye).
+ingredient(water).
+ingredient(glowstone_dust).
+ingredient(redstone_dust).
 
 %
 % Base potions
@@ -109,7 +112,7 @@ potion_effect(potion_of_slowness, slowness_15_percent, 180).
 potion_effect(potion_of_slowness_plus, slowness_15_percent, 240).
 potion_effect(potion_of_slowness_four, slowness_60_percent, 20).
 
-potion_effect(potion_of_leapness, leapness_50_percent, 180).
+potion_effect(potion_of_leaping, leapness_50_percent, 180).
 potion_effect(potion_of_leaping_plus, leapness_50_percent, 480).
 potion_effect(potion_of_leaping_two, leapness_125_percent, 90).
 

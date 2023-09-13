@@ -1,0 +1,264 @@
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_swiftness_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#awkward_potion"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#sugar"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_swiftness"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_swiftness_two_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_swiftness"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#glowstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_swiftness_two"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_switftness_plus_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_swiftness"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#redstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_switftness_plus"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_leaping_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#awkward_potion"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#rabbit_foot"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_leaping"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_leaping_plus_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_leaping"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#redstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_leaping_plus"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_leaping_two_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_leaping"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#glowstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_leaping_two"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slowness_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_swiftness"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#fermented_spider_eye"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slowness"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slowness_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_leaping"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#fermented_spider_eye"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slowness"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slowness_plus_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slowness"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#redstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slowness_plus"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slowness_plus_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_switftness_plus"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#fermented_spider_eye"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slowness_plus"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slowness_plus_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_leaping_plus"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#fermented_spider_eye"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slowness_plus"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slowness_four_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slowness"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#glowstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slowness_four"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_strength_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#awkward_potion"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#blaze_powder"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_strength"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_strength_plus_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_strength"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#redstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_strength_plus"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_strength_two_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_strength"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#glowstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_strength_two"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_healing_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#awkward_potion"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#gliterring_melon"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_healing"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_healing_two_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_healing"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#glowstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_healing_two"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_poison_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#awkward_potion"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#spider_eye"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_poison"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_poison_two_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_poison"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#glowstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_poison_two"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_poison_plus_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_poison"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#redstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_poison_plus"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_harming_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_healing"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#fermented_spider_eye"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_harming"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_harming_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_poison"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#fermented_spider_eye"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_harming"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_harming_two_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_harming"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#glowstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_harming_two"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_harming_two_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_healing_two"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#fermented_spider_eye"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_harming_two"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_harming_two_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_poison_two"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#fermented_spider_eye"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_harming_two"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_regeneration_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#awkward_potion"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#ghast_tear"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_regeneration"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_regeneration_two_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_regeneration"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#glowstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_regeneration_two"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_regenration_plus_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_regeneration"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#redstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_regenration_plus"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_fire_resistance_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#awkward_potion"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#magma_cream"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_fire_resistance"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_fire_resistance_plus_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_fire_resistance"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#redstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_fire_resistance_plus"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_water_breathing_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#awkward_potion"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#pufferfish"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_water_breathing"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_water_breathing_plus_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_water_breathing"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#redstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_water_breathing_plus"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_night_vision_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#awkward_potion"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#golden_carrot"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_night_vision"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_night_vision_plus_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_night_vision"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#redstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_night_vision_plus"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_invisibility_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_night_vision"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#fermented_spider_eye"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_invisibility"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_invisibility_plus_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_invisibility"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#redstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_invisibility_plus"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_invisibility_plus_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_night_vision_plus"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#fermented_spider_eye"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_invisibility_plus"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_the_turtle_master_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#awkward_potion"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#turtle_shell"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_the_turtle_master"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_the_turtle_master_plus_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_the_turtle_master"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#redstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_the_turtle_master_plus"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_the_turtle_master_two_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_the_turtle_master"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#glowstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_the_turtle_master_two"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slow_falling_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#awkward_potion"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#phantom_membrane"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slow_falling"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slow_falling_plus_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slow_falling"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#redstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_slow_falling_plus"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_weakness_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#water_bottle"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#fermented_spider_eye"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_weakness"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_weakness_plus_craft">
+    <rdf:type rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#recipe"/>
+    <lab2:recipe_base_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_weakness"/>
+    <lab2:recipe_ingredient rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#redstone_dust"/>
+    <lab2:recipe_upgrade_potion rdf:resource="http://www.semanticweb.org/dmitr/ontologies/2023/8/lab2#potion_of_weakness_plus"/>
+</owl:NamedIndividual>
